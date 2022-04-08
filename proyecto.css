@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.buttons {
+    display: flex;
+
+}
+.login {
+    color: rgb(86, 86, 86);
+}
+.register {
+    color: #fff;
+    background-color: green;
+    border-radius: 15px;
+}
+.buttons {
+    text-decoration: none;
+    color: rgb(86, 86, 86);
+    padding: 10px 20px;
+}
